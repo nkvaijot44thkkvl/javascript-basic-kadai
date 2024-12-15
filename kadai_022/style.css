@@ -53,7 +53,7 @@ padding: 10px;
 
 h2 {
   font-weight: bold;
-  color: rgb(97,206,249);
+  /*color: rgb(97,206,249);*/
   border-bottom: dotted 3px rgb(236,122,122);
   font-size: 25px;
 }
@@ -72,7 +72,7 @@ footer > a {
   color: rgb(255,255,255);
 } 
 
-footer > a:visited {
+a:visited {
   color: rgb(193,234,251);
 }
 
