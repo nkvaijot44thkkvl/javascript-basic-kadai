@@ -22,29 +22,28 @@
   background-color: #ffd9df;
   margin-right: auto;
   margin-left: auto;
+  position: relative;
 }
 
 #middle > div {
   width: 200px;
   height: 200px;
   background-color: #87ceeb;
+  position: absolute;
 }
 
 #middle-child01 {
-  position: relative;
   top: 100px;
   left: 100px;
 }
 
 #middle-child02 {
-  position: relative;
-  top: 100px;
+  top: 300px;
   left: 300px;
 }
 
 #middle-child03 {
-  position: relative;
-  top: 100px;
+  top: 500px;
   left: 500px;
 }
 
