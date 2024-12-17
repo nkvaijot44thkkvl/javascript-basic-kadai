@@ -4,6 +4,6 @@ console.log(CalcSquare(num));
 
 function CalcSquare (num){
 
-let square = num **2;
+const square = num **2;
 return square;
 }
