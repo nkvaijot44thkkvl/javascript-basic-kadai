@@ -1,6 +1,6 @@
 let untyped = '';
 
-const untypedfield = document.getElementById('untyped')
+const untypedfield = document.getElementById('untyped');
 
 //複数のテキストを格納する配列
 const textList = [
